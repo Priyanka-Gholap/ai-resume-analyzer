@@ -2,3 +2,5 @@ flask
 pdfplumber
 scikit-learn
 numpy
+pandas
+spacy
