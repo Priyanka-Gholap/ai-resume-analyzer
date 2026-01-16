@@ -138,4 +138,4 @@ http://127.0.0.1:5000
 Computer Engineering Student
 
 * LinkedIn: https://www.linkedin.com/in/priyankagholap-in
-* GitHub: 
+* GitHub: https://github.com/Priyanka-Gholap/ai-resume-analyzer.git
