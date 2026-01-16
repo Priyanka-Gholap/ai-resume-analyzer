@@ -1,9 +1,5 @@
-import spacy
-
-nlp = spacy.load("en_core_web_sm")
-
 SKILLS_DB = [
-    "python", "java", "c++", "c", "javascript",
+    "python", "java", "c", "c++", "javascript",
     "react", "node", "express", "mongodb", "sql",
     "html", "css", "flask", "django",
     "machine learning", "deep learning",
